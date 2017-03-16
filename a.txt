@@ -1,2 +1,5 @@
 Old file
+
 Modified by master
+
+Modified by branch bug
